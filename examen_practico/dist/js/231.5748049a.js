@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkapp_rutas_vue"]=self["webpackChunkapp_rutas_vue"]||[]).push([[231],{5231:function(u,n,r){r.r(n),r.d(n,{default:function(){return p}});var e=r(3396);function t(u,n){return(0,e.wg)(),(0,e.iD)("h1",null,"hgh")}var a=r(89);const s={},c=(0,a.Z)(s,[["render",t]]);var p=c}}]);
+//# sourceMappingURL=231.5748049a.js.map
